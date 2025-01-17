@@ -1,5 +1,5 @@
 ---
-title: 'Single-Page CV'
+title: 'Jonathan y como esta el mundo con la tecnologia 
 description: 'Create a single-page HTML CV to showcase your career history'
 isNew: false
 sort: 1
